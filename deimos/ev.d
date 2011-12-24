@@ -43,7 +43,7 @@ import core.stdc.signal;
 import core.stdc.config; //c_long
 
 extern(C):
-align(4):
+//align(4):
 
 /*****************************************************************************/
 
